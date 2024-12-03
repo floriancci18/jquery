@@ -1,0 +1,1 @@
+/* Utilisez .animate() et .css() sur #box pour modifier sa taille et sa couleur. */
